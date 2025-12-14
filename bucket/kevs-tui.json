@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.0/kevs-tui-windows-amd64.zip",
+            "bin": [
+                "kevs-tui.exe"
+            ],
+            "hash": "88c550019922e655a6bd45d0abb43165394731e1e454d8ad97857928cf03fe67"
+        },
+        "arm64": {
+            "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.0/kevs-tui-windows-arm64.zip",
+            "bin": [
+                "kevs-tui.exe"
+            ],
+            "hash": "4e9d4c0d82438f6c1985c5bc51a14476edf7d20d6f294afb1cbb5eeb615e51df"
+        }
+    },
+    "homepage": "https://github.com/ethanolivertroy/kevs-tui",
+    "license": "MIT",
+    "description": "Terminal UI for browsing CISA Known Exploited Vulnerabilities (KEV)"
+}
