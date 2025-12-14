@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ethanolivertroy/vanta-go-export/releases/download/v0.1.0/vanta-exporter-windows-amd64.zip",
+            "url": "https://github.com/ethanolivertroy/vanta-go-export/releases/download/v0.1.1/vanta-exporter-windows-amd64.zip",
             "bin": [
                 "vanta-exporter.exe"
             ],
-            "hash": "6851bc20bc27a0bc11bbcded9c24f573516ea47a1d8e301d3fe20603ab6bf29e"
+            "hash": "525ba257137451c6770646ab48fae8ba8be9e8826512fab6d56e8e77d384b9db"
         },
         "arm64": {
-            "url": "https://github.com/ethanolivertroy/vanta-go-export/releases/download/v0.1.0/vanta-exporter-windows-arm64.zip",
+            "url": "https://github.com/ethanolivertroy/vanta-go-export/releases/download/v0.1.1/vanta-exporter-windows-arm64.zip",
             "bin": [
                 "vanta-exporter.exe"
             ],
-            "hash": "12d45ad8e70989638a3d10bbc59c5dec594b8fe23f8d99cb522cf6caf97ec939"
+            "hash": "3958ed46d1b32769d45f06bb571ba3635fb64b52158e9259e27d554f792a97f8"
         }
     },
     "homepage": "https://github.com/ethanolivertroy/vanta-go-export",
