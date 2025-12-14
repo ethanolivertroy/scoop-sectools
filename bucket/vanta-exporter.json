@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ethanolivertroy/vanta-go-export/releases/download/v0.1.0/vanta-exporter-windows-amd64.zip",
+            "bin": [
+                "vanta-exporter.exe"
+            ],
+            "hash": "6851bc20bc27a0bc11bbcded9c24f573516ea47a1d8e301d3fe20603ab6bf29e"
+        },
+        "arm64": {
+            "url": "https://github.com/ethanolivertroy/vanta-go-export/releases/download/v0.1.0/vanta-exporter-windows-arm64.zip",
+            "bin": [
+                "vanta-exporter.exe"
+            ],
+            "hash": "12d45ad8e70989638a3d10bbc59c5dec594b8fe23f8d99cb522cf6caf97ec939"
+        }
+    },
+    "homepage": "https://github.com/ethanolivertroy/vanta-go-export",
+    "license": "MIT",
+    "description": "CLI tool to export Vanta audit evidence organized by control"
+}
