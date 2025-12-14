@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.0/cmvp-windows-amd64.zip",
+            "bin": [
+                "cmvp.exe"
+            ],
+            "hash": "e18e8420c26d14cb0d2a2e250b9100295b247101ab6ba4b3d316f6ecabcd8d62"
+        },
+        "arm64": {
+            "url": "https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.0/cmvp-windows-arm64.zip",
+            "bin": [
+                "cmvp.exe"
+            ],
+            "hash": "ae120ed83338abf5e7856e5eb70de76b7f9f69fc9f38fca08fa4e03f338a46f3"
+        }
+    },
+    "homepage": "https://github.com/ethanolivertroy/cmvp-tui",
+    "license": "MIT",
+    "description": "Terminal UI for searching NIST CMVP validated cryptographic modules"
+}
