@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.1/fedramp-windows-amd64.zip",
+            "bin": [
+                "fedramp.exe"
+            ],
+            "hash": "5ec6452b98ed640ad693f9c0831126398ecd80f755faf7ced61d7df7ff31d288"
+        },
+        "arm64": {
+            "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.1/fedramp-windows-arm64.zip",
+            "bin": [
+                "fedramp.exe"
+            ],
+            "hash": "6862670c0e9e8a34f75584414d128638deb4b005b5e3c7affc406f524857794e"
+        }
+    },
+    "homepage": "https://github.com/ethanolivertroy/fedramp-tui",
+    "license": "MIT",
+    "description": "Terminal UI for browsing FedRAMP authorized cloud services"
+}
