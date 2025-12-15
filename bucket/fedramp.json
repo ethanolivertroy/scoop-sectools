@@ -6,14 +6,14 @@
             "bin": [
                 "fedramp.exe"
             ],
-            "hash": "5ec6452b98ed640ad693f9c0831126398ecd80f755faf7ced61d7df7ff31d288"
+            "hash": "7c61db3dbe1fdd3997db6a7b516e582cc8fb6cac6b934a74d32a0a4241076391"
         },
         "arm64": {
             "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.1/fedramp-windows-arm64.zip",
             "bin": [
                 "fedramp.exe"
             ],
-            "hash": "6862670c0e9e8a34f75584414d128638deb4b005b5e3c7affc406f524857794e"
+            "hash": "c0b383260403895f9dd839bdf9c0742720cb65d1df75f85c1643b4d79edf1958"
         }
     },
     "homepage": "https://github.com/ethanolivertroy/fedramp-tui",
