@@ -6,14 +6,14 @@
             "bin": [
                 "kevs-tui.exe"
             ],
-            "hash": "637bef90e8102001c6bc2042d82f267f87a0b3f7734321eaf2dcafa3462d79bb"
+            "hash": "b7d1312458ad9f269749479b6ae708a78acc870d9dff70591ef400b3d79ddfdb"
         },
         "arm64": {
             "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.0/kevs-tui-windows-arm64.zip",
             "bin": [
                 "kevs-tui.exe"
             ],
-            "hash": "36b10f986b0b7fff595d732876e3f375035fb71eec6e16fae67b083c69f80d48"
+            "hash": "e629b4485f93d533b1051915dc81d7db6a8ebef42d28b8390acf27ef500bf7f5"
         }
     },
     "homepage": "https://github.com/ethanolivertroy/kevs-tui",
