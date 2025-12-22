@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.1/fedramp-windows-amd64.zip",
+            "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.2/fedramp-windows-amd64.zip",
             "bin": [
                 "fedramp.exe"
             ],
-            "hash": "7c61db3dbe1fdd3997db6a7b516e582cc8fb6cac6b934a74d32a0a4241076391"
+            "hash": "4d2dc9f045c8ddebd8baf997ae2666acf6895f0839bcc732fd776f5117317868"
         },
         "arm64": {
-            "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.1/fedramp-windows-arm64.zip",
+            "url": "https://github.com/ethanolivertroy/fedramp-tui/releases/download/v0.1.2/fedramp-windows-arm64.zip",
             "bin": [
                 "fedramp.exe"
             ],
-            "hash": "c0b383260403895f9dd839bdf9c0742720cb65d1df75f85c1643b4d79edf1958"
+            "hash": "7248af663e9f965fdd5ac63310efb60c4ec468a97601a3fbb07166532743ebb7"
         }
     },
     "homepage": "https://github.com/ethanolivertroy/fedramp-tui",
