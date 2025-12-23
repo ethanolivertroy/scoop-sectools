@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.1/kevs-tui-windows-amd64.zip",
+            "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.2/kevs-tui-windows-amd64.zip",
             "bin": [
                 "kevs-tui.exe"
             ],
-            "hash": "ddb647ab0f6e81cc18b866cd3759b1d7c7ee88d58346c386fbd5f73f35b2fcb5"
+            "hash": "ff2b800033ca2d8fa1aa4b56598fbfa24049891cb42e8016ab460f4143ca86d8"
         },
         "arm64": {
-            "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.1/kevs-tui-windows-arm64.zip",
+            "url": "https://github.com/ethanolivertroy/kevs-tui/releases/download/v0.1.2/kevs-tui-windows-arm64.zip",
             "bin": [
                 "kevs-tui.exe"
             ],
-            "hash": "17012f477b3fe1f7f4550a71eb94da2788a0ac62a065b19b1589af1c584a094e"
+            "hash": "9b15d7fe69e069ecab42aebf75a748e5e0151db4c5d12dab35b4df53234684a0"
         }
     },
     "homepage": "https://github.com/ethanolivertroy/kevs-tui",
