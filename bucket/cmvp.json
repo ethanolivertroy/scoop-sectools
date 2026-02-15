@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.1/cmvp-windows-amd64.zip",
+            "url": "https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.2/cmvp-windows-amd64.zip",
             "bin": [
                 "cmvp.exe"
             ],
-            "hash": "86aded048067e2c88c198db6db89ec45f56d138045dac3d78273d28f47584d5d"
+            "hash": "4f266a9d26200343771c49830ef883fe1944cb8fd9c397c37724dc1695b59f40"
         },
         "arm64": {
-            "url": "https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.1/cmvp-windows-arm64.zip",
+            "url": "https://github.com/ethanolivertroy/cmvp-tui/releases/download/v0.1.2/cmvp-windows-arm64.zip",
             "bin": [
                 "cmvp.exe"
             ],
-            "hash": "51b595866fc5c1eda5105017cd61326bd6d9f6dfc6feeab29bb920784e485739"
+            "hash": "9ff12782c89d6a43c868c1766071399f492ec1d9e0318550543f87716e462e84"
         }
     },
     "homepage": "https://github.com/ethanolivertroy/cmvp-tui",
